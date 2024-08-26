@@ -94,8 +94,8 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prakash&hide_border=true&layout=compact" align="left" />  
+## Most Languages Used  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prakash&hide_border=true&layout=compact" align="center" />  
 
 <br/>  
 
