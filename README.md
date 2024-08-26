@@ -95,7 +95,7 @@
 
 
 ## Most Languages Used  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prakash&hide_border=true&layout=compact" align="center" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prakash&hide_border=true&layout=compact" align="center" /></div>    
 
 <br/>  
 
